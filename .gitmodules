@@ -42,7 +42,7 @@
 [submodule "hrbrthemes"]
 	path = hrbrthemes
 	url = https://github.com/hrbrmstr/hrbrthemes
-	branch = *release
+	branch = 0.8.0
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
@@ -91,4 +91,4 @@
 [submodule "viridis"]
 	path = viridis
 	url = https://github.com/sjmgarnier/viridis
-	branch = *release
+	branch = v0.6.3CRAN
