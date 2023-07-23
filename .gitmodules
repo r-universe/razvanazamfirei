@@ -5,52 +5,52 @@
 [submodule "cowplot"]
 	path = cowplot
 	url = https://github.com/wilkelab/cowplot
-	branch = *release
+	branch = 1.1.1
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
-	branch = *release
+	branch = v1.1.2
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
-	branch = *release
+	branch = v3.4.2
 [submodule "gt"]
 	path = gt
 	url = https://github.com/rstudio/gt
-	branch = *release
+	branch = v0.9.0
 [submodule "haven"]
 	path = haven
 	url = https://github.com/tidyverse/haven
-	branch = *release
+	branch = v2.5.3
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
-	branch = *release
+	branch = v1.9.2
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
-	branch = *release
+	branch = v2.0.3
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = *release
+	branch = v0.7.0
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
-	branch = *release
+	branch = v1.0.2
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
-	branch = *release
+	branch = v2.1.4
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
-	branch = *release
+	branch = v1.0.1
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble
-	branch = *release
+	branch = v3.2.1
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
-	branch = *release
+	branch = v1.3.0
