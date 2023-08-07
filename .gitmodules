@@ -13,7 +13,7 @@
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
-	branch = v3.4.2
+	branch = v3.4.3
 [submodule "gt"]
 	path = gt
 	url = https://github.com/rstudio/gt
