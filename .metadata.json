@@ -1,0 +1,54 @@
+[
+  {
+    "package": "polars",
+    "releasetag": true
+  },
+  {
+    "package": "gt",
+    "releasetag": true
+  },
+  {
+    "package": "ggplot2",
+    "releasetag": true
+  },
+  {
+    "package": "renv",
+    "releasetag": true
+  },
+  {
+    "package": "dplyr",
+    "releasetag": true
+  },
+  {
+    "package": "tidyr",
+    "releasetag": true
+  },
+  {
+    "package": "purrr",
+    "releasetag": true
+  },
+  {
+    "package": "readr",
+    "releasetag": true
+  },
+  {
+    "package": "magrittr",
+    "releasetag": true
+  },
+  {
+    "package": "lubridate",
+    "releasetag": true
+  },
+  {
+    "package": "tibble",
+    "releasetag": true
+  },
+  {
+    "package": "haven",
+    "releasetag": true
+  },
+  {
+    "package": "cowplot",
+    "releasetag": true
+  }
+]
