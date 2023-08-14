@@ -10,6 +10,9 @@
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
 	branch = v1.1.2
+[submodule "ganttrify"]
+	path = ganttrify
+	url = https://github.com/giocomai/ganttrify
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
@@ -46,6 +49,9 @@
 	path = renv
 	url = https://github.com/rstudio/renv
 	branch = v1.0.1
+[submodule "simdistr"]
+	path = simdistr
+	url = https://github.com/cran/simdistr
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble

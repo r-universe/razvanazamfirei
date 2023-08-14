@@ -1,6 +1,14 @@
 [
   {
+    "package": "renv",
+    "releasetag": true
+  },
+  {
     "package": "polars",
+    "releasetag": true
+  },
+  {
+    "package": "cowplot",
     "releasetag": true
   },
   {
@@ -9,10 +17,6 @@
   },
   {
     "package": "ggplot2",
-    "releasetag": true
-  },
-  {
-    "package": "renv",
     "releasetag": true
   },
   {
@@ -45,10 +49,6 @@
   },
   {
     "package": "haven",
-    "releasetag": true
-  },
-  {
-    "package": "cowplot",
     "releasetag": true
   }
 ]
