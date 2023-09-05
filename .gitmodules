@@ -9,7 +9,7 @@
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
-	branch = v1.1.2
+	branch = v1.1.3
 [submodule "ganttrify"]
 	path = ganttrify
 	url = https://github.com/giocomai/ganttrify
