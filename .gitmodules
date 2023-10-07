@@ -20,7 +20,7 @@
 [submodule "gt"]
 	path = gt
 	url = https://github.com/rstudio/gt
-	branch = v0.9.0
+	branch = v0.10.0
 [submodule "haven"]
 	path = haven
 	url = https://github.com/tidyverse/haven
