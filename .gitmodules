@@ -36,7 +36,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v0.9.0
+	branch = v0.10.0
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
@@ -52,6 +52,10 @@
 [submodule "simdistr"]
 	path = simdistr
 	url = https://github.com/cran/simdistr
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	registered = false
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble
