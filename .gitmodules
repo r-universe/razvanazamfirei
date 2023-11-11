@@ -36,7 +36,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v0.10.0
+	branch = v0.10.1
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
