@@ -24,7 +24,7 @@
 [submodule "haven"]
 	path = haven
 	url = https://github.com/tidyverse/haven
-	branch = v2.5.3
+	branch = v2.5.4
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
