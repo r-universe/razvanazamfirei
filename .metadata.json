@@ -8,15 +8,23 @@
     "releasetag": true
   },
   {
+    "package": "ggplot2",
+    "releasetag": true
+  },
+  {
     "package": "cowplot",
     "releasetag": true
   },
   {
-    "package": "gt",
+    "package": "ggforce",
     "releasetag": true
   },
   {
-    "package": "ggplot2",
+    "package": "patchwork",
+    "releasetag": true
+  },
+  {
+    "package": "gt",
     "releasetag": true
   },
   {
@@ -49,6 +57,10 @@
   },
   {
     "package": "haven",
+    "releasetag": true
+  },
+  {
+    "package": "hrbrthemes",
     "releasetag": true
   }
 ]

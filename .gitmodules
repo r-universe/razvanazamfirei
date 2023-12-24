@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/razvanazamfirei/razvanazamfirei.r-universe.dev
 	branch = HEAD
+[submodule "assertthat"]
+	path = assertthat
+	url = https://cran.r-project.org/package=assertthat
+[submodule "broom"]
+	path = broom
+	url = https://github.com/tidymodels/broom
 [submodule "cowplot"]
 	path = cowplot
 	url = https://github.com/wilkelab/cowplot
@@ -13,6 +19,10 @@
 [submodule "ganttrify"]
 	path = ganttrify
 	url = https://github.com/giocomai/ganttrify
+[submodule "ggforce"]
+	path = ggforce
+	url = https://github.com/thomasp85/ggforce
+	branch = *release
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
@@ -25,6 +35,10 @@
 	path = haven
 	url = https://github.com/tidyverse/haven
 	branch = v2.5.4
+[submodule "hrbrthemes"]
+	path = hrbrthemes
+	url = https://github.com/hrbrmstr/hrbrthemes
+	branch = *release
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
@@ -33,6 +47,13 @@
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
 	branch = v2.0.3
+[submodule "patchwork"]
+	path = patchwork
+	url = https://github.com/thomasp85/patchwork
+	branch = *release
+[submodule "png"]
+	path = png
+	url = https://www.rforge.net/png
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
@@ -49,9 +70,18 @@
 	path = renv
 	url = https://github.com/rstudio/renv
 	branch = v1.0.3
+[submodule "scales"]
+	path = scales
+	url = https://scales.r-lib.org
+[submodule "showtext"]
+	path = showtext
+	url = https://github.com/yixuan/showtext
 [submodule "simdistr"]
 	path = simdistr
 	url = https://github.com/cran/simdistr
+[submodule "sysfonts"]
+	path = sysfonts
+	url = https://github.com/yixuan/sysfonts
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
@@ -64,3 +94,6 @@
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
 	branch = v1.3.0
+[submodule "zoo"]
+	path = zoo
+	url = https://zoo.R-Forge.R-project.org
