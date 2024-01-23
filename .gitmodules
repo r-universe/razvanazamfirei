@@ -89,7 +89,7 @@
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
-	branch = v1.3.0
+	branch = v1.3.1
 [submodule "zoo"]
 	path = zoo
 	url = https://zoo.R-Forge.R-project.org
