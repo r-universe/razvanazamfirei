@@ -58,9 +58,5 @@
   {
     "package": "haven",
     "releasetag": true
-  },
-  {
-    "package": "hrbrthemes",
-    "releasetag": true
   }
 ]
