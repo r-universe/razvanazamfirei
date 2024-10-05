@@ -68,7 +68,7 @@
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
-	branch = v1.0.9
+	branch = v1.0.10
 [submodule "scales"]
 	path = scales
 	url = https://scales.r-lib.org
