@@ -46,7 +46,7 @@
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
-	branch = v1.9.2
+	branch = v1.9.4
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
