@@ -1,9 +1,5 @@
 [
   {
-    "package": "renv",
-    "releasetag": true
-  },
-  {
     "package": "polars",
     "releasetag": true
   },

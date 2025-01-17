@@ -67,10 +67,6 @@
 	path = readr
 	url = https://github.com/tidyverse/readr
 	branch = v2.1.5
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio
-	branch = v1.0.11
 [submodule "showtext"]
 	path = showtext
 	url = https://github.com/yixuan/showtext
