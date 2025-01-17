@@ -8,6 +8,10 @@
     "releasetag": true
   },
   {
+    "package": "broom",
+    "releasetag": true
+  },
+  {
     "package": "ggplot2",
     "releasetag": true
   },
@@ -57,6 +61,14 @@
   },
   {
     "package": "haven",
+    "releasetag": true
+  },
+  {
+    "package": "hrbrthemes",
+    "releasetag": true
+  },
+  {
+    "package": "viridis",
     "releasetag": true
   }
 ]
