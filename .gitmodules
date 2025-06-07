@@ -79,7 +79,7 @@
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble
-	branch = v3.2.1
+	branch = v3.3.0
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
