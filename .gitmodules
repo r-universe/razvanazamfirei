@@ -20,7 +20,7 @@
 [submodule "ggforce"]
 	path = ggforce
 	url = https://github.com/thomasp85/ggforce
-	branch = v0.4.2
+	branch = v0.5.0
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
