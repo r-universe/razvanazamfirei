@@ -9,7 +9,7 @@
 [submodule "cowplot"]
 	path = cowplot
 	url = https://github.com/wilkelab/cowplot
-	branch = 1.1.2
+	branch = 1.2.0
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
