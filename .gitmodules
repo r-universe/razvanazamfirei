@@ -50,7 +50,7 @@
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
-	branch = v2.0.3
+	branch = v2.0.4
 [submodule "patchwork"]
 	path = patchwork
 	url = https://github.com/thomasp85/patchwork
