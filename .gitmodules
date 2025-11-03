@@ -62,7 +62,7 @@
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
-	branch = v1.1.0
+	branch = v1.2.0
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
