@@ -24,7 +24,7 @@
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
-	branch = v4.0.0
+	branch = v4.0.1
 [submodule "ggridges"]
 	path = ggridges
 	url = https://github.com/wilkelab/ggridges
