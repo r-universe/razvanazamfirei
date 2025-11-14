@@ -66,7 +66,7 @@
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
-	branch = v2.1.5
+	branch = v2.1.6
 [submodule "showtext"]
 	path = showtext
 	url = https://github.com/yixuan/showtext
