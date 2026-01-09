@@ -62,7 +62,7 @@
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
-	branch = v1.2.0
+	branch = v1.2.1
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
@@ -83,7 +83,7 @@
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
-	branch = v1.3.1
+	branch = v1.3.2
 [submodule "viridis"]
 	path = viridis
 	url = https://github.com/sjmgarnier/viridis
